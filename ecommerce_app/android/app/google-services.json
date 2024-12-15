@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "763150376323",
+    "project_id": "contacts-app-63732",
+    "storage_bucket": "contacts-app-63732.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763150376323:android:6c7b11aca5484e76c26ab6",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763150376323-6tb7o6nd73in1nsc8j5op6ru9dvgiedv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EwhrLKpSdw1WFeGbMrzwWd5OsRwWLao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763150376323-6tb7o6nd73in1nsc8j5op6ru9dvgiedv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763150376323-arhg6um54julueokj6n7l8hoc7rthief.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAdminApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763150376323:android:6039d206e0577a56c26ab6",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763150376323-6tb7o6nd73in1nsc8j5op6ru9dvgiedv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EwhrLKpSdw1WFeGbMrzwWd5OsRwWLao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763150376323-6tb7o6nd73in1nsc8j5op6ru9dvgiedv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763150376323-arhg6um54julueokj6n7l8hoc7rthief.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAdminApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
